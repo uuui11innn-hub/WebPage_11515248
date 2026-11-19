@@ -2,8 +2,8 @@
   <title id="title">咖啡與午後</title>
   <desc id="desc">桌上的手沖咖啡、咖啡豆與一枝綠葉</desc>
   <rect width="840" height="740" fill="#fff1f4"/>
-  <path d="M0 0h840v430H0z" fill="#bdd0e7"/>
-  <path d="M0 0h270v430H0z" fill="#829fc5"/>
+  <path d="M0 0h840v430H0z" fill="#c6d6c3"/>
+  <path d="M0 0h270v430H0z" fill="#86a67a"/>
   <path d="M270 0h18v430h-18z" fill="#fffdfd"/>
   <path d="M0 292h840v448H0z" fill="#d68ca4"/>
   <path d="M0 310h840v16H0z" fill="#b96d89" opacity=".55"/>
@@ -14,8 +14,8 @@
   <ellipse cx="433" cy="373" rx="123" ry="22" fill="#5b3928"/>
   <path d="M410 351c13-23 42-23 55 0" fill="none" stroke="#d5a26b" stroke-width="5" stroke-linecap="round"/>
   <path d="M417 351c10-15 29-15 40 0" fill="none" stroke="#d5a26b" stroke-width="4" stroke-linecap="round"/>
-  <path d="M115 527c-10-93 14-174 79-231" fill="none" stroke="#496990" stroke-width="11" stroke-linecap="round"/>
-  <path d="M168 376c-50 13-87-10-101-51 49-18 91 0 101 51zm23-55c-2-50 27-82 69-87 12 50-12 84-69 87zm-37 108c-46 18-88 3-108-34 44-24 89-11 108 34z" fill="#7898c2"/>
+  <path d="M115 527c-10-93 14-174 79-231" fill="none" stroke="#49694b" stroke-width="11" stroke-linecap="round"/>
+  <path d="M168 376c-50 13-87-10-101-51 49-18 91 0 101 51zm23-55c-2-50 27-82 69-87 12 50-12 84-69 87zm-37 108c-46 18-88 3-108-34 44-24 89-11 108 34z" fill="#5d7d4e"/>
   <g fill="#493225">
     <ellipse cx="175" cy="617" rx="18" ry="12" transform="rotate(-22 175 617)"/>
     <path d="M166 610q10 8 18 15" fill="none" stroke="#a77b54" stroke-width="2"/>

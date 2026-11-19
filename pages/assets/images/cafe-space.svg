@@ -2,12 +2,12 @@
   <title id="title">窗邊的咖啡座位</title>
   <desc id="desc">有木桌、咖啡杯、窗戶與植栽的安靜角落</desc>
   <rect width="720" height="800" fill="#fff1f4"/>
-  <path d="M0 0h720v535H0z" fill="#bdd0e7"/>
+  <path d="M0 0h720v535H0z" fill="#c6d6c3"/>
   <path d="M68 45h352v376H68z" fill="#fffdfd"/>
-  <path d="M87 64h314v337H87z" fill="#92aacb"/>
+  <path d="M87 64h314v337H87z" fill="#96b28c"/>
   <path d="M236 64h18v337h-18zM87 218h314v17H87z" fill="#fffdfd"/>
-  <path d="M102 323c44-95 87-135 135-144v222H102z" fill="#7898c2" opacity=".8"/>
-  <path d="M254 178c55 30 93 86 137 190H254z" fill="#b0c1db"/>
+  <path d="M102 323c44-95 87-135 135-144v222H102z" fill="#5d7d4e" opacity=".8"/>
+  <path d="M254 178c55 30 93 86 137 190H254z" fill="#b3c9a8"/>
   <path d="M0 535h720v265H0z" fill="#d68ca4"/>
   <path d="M0 545h720v18H0z" fill="#b96d89" opacity=".5"/>
   <path d="M162 479h397l-31 45H192z" fill="#9f6379"/>
@@ -16,8 +16,8 @@
   <path d="M320 444h122l-9 52c-3 15-13 23-28 23h-48c-15 0-25-8-28-23z" fill="#fffdfd"/>
   <path d="M439 457h21c18 0 24 13 19 27-4 11-13 17-28 15" fill="none" stroke="#fffdfd" stroke-width="11"/>
   <ellipse cx="381" cy="444" rx="61" ry="13" fill="#5a3929"/>
-  <path d="M584 521c-10-90 3-156 39-210" fill="none" stroke="#496990" stroke-width="9" stroke-linecap="round"/>
-  <path d="M615 398c-43 8-69-11-78-47 41-13 73 4 78 47zm12-45c4-41 28-63 63-63 7 42-16 67-63 63zm-14 91c-38 15-70 3-86-27 36-19 71-9 86 27z" fill="#7898c2"/>
+  <path d="M584 521c-10-90 3-156 39-210" fill="none" stroke="#49694b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M615 398c-43 8-69-11-78-47 41-13 73 4 78 47zm12-45c4-41 28-63 63-63 7 42-16 67-63 63zm-14 91c-38 15-70 3-86-27 36-19 71-9 86 27z" fill="#5d7d4e"/>
   <path d="M558 528h118l-12 174h-94z" fill="#ad7187"/>
   <path d="M549 520h136v19H549z" fill="#c5849b"/>
   <path d="M0 711h720v89H0z" fill="#78546a"/>
